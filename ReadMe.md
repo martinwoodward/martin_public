@@ -1,5 +1,5 @@
 <!--
-Title:      A New MultiMarkdown Document  
+Title:      An example of MultiMarkdown style metadata  
 Author:     Martin Woodward  
             John Doe  
 Keywords:   blah,test,example
