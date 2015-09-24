@@ -1,3 +1,9 @@
+Title:      A New MultiMarkdown Document  
+Author:     Martin Woodward  
+            John Doe  
+Keywords:   blah,test,example
+            sample,ignore
+
 #Test Repo
 
 This is just a test project that I'm playing with to test the import from CodePlex works, please ignore.
