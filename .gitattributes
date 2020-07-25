@@ -1,1 +1,2 @@
-*.not-txt    merge=binary
+*.not-txt    merge=binary linguist-generated
+
